@@ -1,0 +1,12 @@
+torch>=2.1.0
+torchvision>=0.16.0
+numpy
+scipy
+matplotlib
+tqdm
+easydict
+rich
+torch-ema
+requests
+# Optional: semantic embeddings with PubMedBERT fallback behavior
+transformers>=4.30.0
